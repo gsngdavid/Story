@@ -1,1 +1,1 @@
-I love git.
+Any fool can write code that a computer can understand
